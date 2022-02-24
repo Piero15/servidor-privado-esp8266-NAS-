@@ -29,8 +29,8 @@
 
 #define DBG_OUTPUT_PORT Serial
 
-const char* ssid = "Dios no quiere q robes ";
-const char* password = "70367446123"; 
+const char* ssid = "Nombre de tu WIFI";
+const char* password = "tu contraseña WIFI"; 
 const char* host = "esp8266sd";
 
 ESP8266WebServer server(80);
